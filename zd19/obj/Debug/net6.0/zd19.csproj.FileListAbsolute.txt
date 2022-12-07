@@ -1,0 +1,15 @@
+D:\Documents\Downloads\D4\3\zd19\bin\Debug\net6.0\zd19.exe
+D:\Documents\Downloads\D4\3\zd19\bin\Debug\net6.0\zd19.deps.json
+D:\Documents\Downloads\D4\3\zd19\bin\Debug\net6.0\zd19.runtimeconfig.json
+D:\Documents\Downloads\D4\3\zd19\bin\Debug\net6.0\zd19.dll
+D:\Documents\Downloads\D4\3\zd19\bin\Debug\net6.0\zd19.pdb
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.csproj.AssemblyReference.cache
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.AssemblyInfoInputs.cache
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.AssemblyInfo.cs
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.dll
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\refint\zd19.dll
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.pdb
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\zd19.genruntimeconfig.cache
+D:\Documents\Downloads\D4\3\zd19\obj\Debug\net6.0\ref\zd19.dll
